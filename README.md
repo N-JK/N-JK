@@ -157,7 +157,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/N-JK/N-JK/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-JK/N-JK/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-JK/N-JK/output/snake-light.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/N-JK/N-JK/output/snake-dark.svg" />
+  </picture>
   <br/><br/><br/>
 </div>
 
