@@ -98,7 +98,7 @@
         <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br>React
       </td>
       <td align="center" width="80">
-        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/><br>VS Code
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/><br>VS&nbsp;Code
       </td>
       <td align="center" width="80">
         <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50"/><br>Nginx
