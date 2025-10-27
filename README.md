@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/nibin-john29/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/nibinjohn29" target="_blank">
+  <a href="https://github.com/N-JK/" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
