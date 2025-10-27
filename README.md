@@ -128,12 +128,31 @@
 
 <h2 align="center">📜 Certifications 📜</h2>
 
-- 🧠 **Red Hat Certified System Administrator (RHCSA)** — Red Hat (2025–2028)  
-- ☁️ **AWS Cloud Practitioner Essentials** — AWS (2024)  
-- ⚙️ **AWS Cloud Technical Essentials** — AWS (2025)  
+<div align="center">
+
+  <p>
+    🧠 <img src="https://img.shields.io/badge/Red%20Hat-Certified%20System%20Administrator-EE0000?style=flat&logo=redhat&logoColor=white" alt="Red Hat Certified System Administrator" />
+    <br>
+    <strong>Red Hat Certified System Administrator (RHCSA)</strong> — Red Hat (2025–2028)
+  </p>
+
+  <p>
+    ☁️ <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
+    <br>
+    <strong>AWS Cloud Practitioner Essentials</strong> — AWS (2024)
+  </p>
+
+  <p>
+    ⚙️ <img src="https://img.shields.io/badge/AWS-Cloud%20Technical%20Essentials-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS Cloud Technical Essentials" />
+    <br>
+    <strong>AWS Cloud Technical Essentials</strong> — AWS (2025)
+  </p>
+
+</div>
 
 <br/>
 <hr/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
