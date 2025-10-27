@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Kubernetes, Terraform, and Infrastructure as Code (IaC)**  
 
- 💬 Ask me about **AWS, Docker, Jenkins, CI/CD, or Linux system administration**  
+ 💬 Familiar with **AWS, Docker, Jenkins, CI/CD, or Linux system administration**  
 
  ⚡ Fun fact: **Automation is my superpower — it turns repetitive tasks into seamless workflows!**
 
