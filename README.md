@@ -34,8 +34,9 @@
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,azure,django,docker,ansible,jenkins,postgresql,mysql,git,github,html,css,js,react,vscode,nginx" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,azure,django,docker,kubernetes,terraform,ansible,jenkins,postgresql,mysql,git,github,html,css,js,react,vscode,nginx" />
 </div>
+
 
 <br/>
 <hr/>
