@@ -34,9 +34,36 @@
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,azure,django,docker,kubernetes,terraform,ansible,jenkins,postgresql,mysql,git,github,html,css,js,react,vscode,nginx" />
-</div>
 
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,azure,django,docker,kubernetes,terraform,ansible,jenkins,postgresql,mysql,git,github,html,css,js,react,vscode,nginx" />
+  </p>
+
+  <p align="center">
+    🐍 Python &nbsp; | &nbsp;
+    🖥️ Bash &nbsp; | &nbsp;
+    🐧 Linux &nbsp; | &nbsp;
+    ☁️ AWS &nbsp; | &nbsp;
+    💠 Azure &nbsp; | &nbsp;
+    🌐 Django &nbsp; | &nbsp;
+    🐳 Docker &nbsp; | &nbsp;
+    ☸️ Kubernetes &nbsp; | &nbsp;
+    🧱 Terraform &nbsp; | &nbsp;
+    ⚙️ Ansible &nbsp; | &nbsp;
+    🧩 Jenkins &nbsp; | &nbsp;
+    🗄️ PostgreSQL &nbsp; | &nbsp;
+    💾 MySQL &nbsp; | &nbsp;
+    🔧 Git &nbsp; | &nbsp;
+    🐙 GitHub &nbsp; | &nbsp;
+    🧱 HTML &nbsp; | &nbsp;
+    🎨 CSS &nbsp; | &nbsp;
+    ✨ JavaScript &nbsp; | &nbsp;
+    ⚛️ React &nbsp; | &nbsp;
+    🧰 VS Code &nbsp; | &nbsp;
+    🌍 Nginx
+  </p>
+
+</div>
 
 <br/>
 <hr/>
