@@ -34,36 +34,79 @@
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,azure,django,docker,kubernetes,terraform,ansible,jenkins,postgresql,mysql,git,github,html,css,js,react,vscode,nginx" />
-  </p>
-
-  <p align="center">
-    🐍 Python &nbsp; | &nbsp;
-    🖥️ Bash &nbsp; | &nbsp;
-    🐧 Linux &nbsp; | &nbsp;
-    ☁️ AWS &nbsp; | &nbsp;
-    💠 Azure &nbsp; | &nbsp;
-    🌐 Django &nbsp; | &nbsp;
-    🐳 Docker &nbsp; | &nbsp;
-    ☸️ Kubernetes &nbsp; | &nbsp;
-    🧱 Terraform &nbsp; | &nbsp;
-    ⚙️ Ansible &nbsp; | &nbsp;
-    🧩 Jenkins &nbsp; | &nbsp;
-    🗄️ PostgreSQL &nbsp; | &nbsp;
-    💾 MySQL &nbsp; | &nbsp;
-    🔧 Git &nbsp; | &nbsp;
-    🐙 GitHub &nbsp; | &nbsp;
-    🧱 HTML &nbsp; | &nbsp;
-    🎨 CSS &nbsp; | &nbsp;
-    ✨ JavaScript &nbsp; | &nbsp;
-    ⚛️ React &nbsp; | &nbsp;
-    🧰 VS Code &nbsp; | &nbsp;
-    🌍 Nginx
-  </p>
-
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=bash" width="50" height="50"/><br>Bash
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/><br>Linux
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=aws" width="50" height="50"/><br>AWS
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=azure" width="50" height="50"/><br>Azure
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=django" width="50" height="50"/><br>Django
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50"/><br>Terraform
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=ansible" width="50" height="50"/><br>Ansible
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50"/><br>Jenkins
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50"/><br>PostgreSQL
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/><br>Git
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/><br>GitHub
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/><br>HTML
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/><br>CSS
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=js" width="50" height="50"/><br>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50"/><br>React
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50"/><br>VS Code
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50"/><br>Nginx
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <br/>
 <hr/>
